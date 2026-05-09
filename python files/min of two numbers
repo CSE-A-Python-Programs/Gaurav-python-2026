@@ -1,0 +1,4 @@
+cc=1000
+dd=900
+
+print(min(cc,dd))
